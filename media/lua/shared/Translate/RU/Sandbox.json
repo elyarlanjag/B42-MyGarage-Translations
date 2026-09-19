@@ -1,5 +1,5 @@
 {
-  "Sandbox_MyGarageDualEnhanced": "My Garage - Tire Rack",
-  "Sandbox_MyGarageDualEnhanced_TiresPerTier": "Tires per tier (per half)",
-  "Sandbox_MyGarageDualEnhanced_TiresPerTier_tooltip": "Each half has three tiers. Each tier stores 4-8 real tires (default 4), while at most four vanilla tire 3D models are displayed per tier."
+  "Sandbox_MyGarageDualEnhanced": "Мой гараж: Стойка для шин",
+  "Sandbox_MyGarageDualEnhanced_TiresPerTier": "Шин на ярус (на каждую половину)",
+  "Sandbox_MyGarageDualEnhanced_TiresPerTier_tooltip": "Каждая половина стойки имеет три яруса. На каждом ярусе хранится от 4 до 8 реальных шин (по умолчанию 4), но визуально на каждом ярусе отображается не более четырёх базовых 3D-моделей шин."
 }

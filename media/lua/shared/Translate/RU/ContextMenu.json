@@ -1,8 +1,8 @@
 {
-  "ContextMenu_MG_TireRack_Take": "Take",
-  "ContextMenu_MG_BatteryWorkbench_Take": "Take",
-  "ContextMenu_MG_DualEnhanced_Take": "Take",
-  "ContextMenu_MG_DualEnhanced_Enable": "Upgrade to New Tire Rack",
-  "IGUI_MG_DualEnhanced_Title": "Tire Rack",
-  "IGUI_MG_DualEnhanced_OnlyTires": "Tires Only"
+  "ContextMenu_MG_TireRack_Take": "Взять",
+  "ContextMenu_MG_BatteryWorkbench_Take": "Взять",
+  "ContextMenu_MG_DualEnhanced_Take": "Взять",
+  "ContextMenu_MG_DualEnhanced_Enable": "Улучшить до новой стойки для шин",
+  "IGUI_MG_DualEnhanced_Title": "Стойка для шин",
+  "IGUI_MG_DualEnhanced_OnlyTires": "Только шины"
 }
